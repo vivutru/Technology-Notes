@@ -21,7 +21,6 @@
 `sudo apt install fail2ban -y`
 
 Arch Linux
-`sudo pacman -Rns`
 `sudo pacman -S fail2ban`
 
 - Next we need to enable the fail2ban service so it starts on machine boot
